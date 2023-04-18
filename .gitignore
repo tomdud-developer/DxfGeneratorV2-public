@@ -1,0 +1,7 @@
+# Project exclude paths
+/target/
+**/xirod_modifed_copy.ttf
+**/xirod_org.ttf
+**/xirod8.ttf
+**/GOST type B.ttf
+/out/**
