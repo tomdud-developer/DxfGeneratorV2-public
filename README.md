@@ -42,4 +42,5 @@ Zmiany w wersji V2.3:
 - A1 is 95x95mm
 - The new logo is the xirod8 font.
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
